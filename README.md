@@ -12,3 +12,7 @@
 *    в CSV 22:04 мин.
 *    конвертация в 2 файла DB - около часа.
 *    из DB в CSV - меньше минуты + сортировка внутри по возрастанию file_id.
+
+### Fork update
+
+Withing this fork I added the ru_to_tpb.js script, which converts output of this glorious tool to the format supported by https://github.com/darksun-misc/piratebay-db-dump (without rutracker-specific categories)
